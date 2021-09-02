@@ -1,6 +1,5 @@
 # Prerequisites
 *.d
-
 # Compiled Object files
 *.slo
 *.lo
@@ -30,3 +29,11 @@
 *.exe
 *.out
 *.app
+
+#setting
+launch.json
+settings.json
+tasks.json
+
+#cpp
+*.plist
