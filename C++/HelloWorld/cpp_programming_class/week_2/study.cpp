@@ -1,23 +1,21 @@
 #include <iostream>
+#include <string>
+
 using namespace std;
 
-bool equal(int *, int *);
+int main(void){
+    string song("Falling in love with you");
+    string elvis("Elvis Presly");
+    string singer;
 
-int main()
-{
-    int a = 5, b = 5;
-    if (equal(&a, &b))
-        cout << "equal"
-             << "\n";
-    else
-        cout << "not equal"
-             << "\n";
-}
+    cout << song + "를 부른 가수는";
+    cout << "(힌트 첫글자는 " << elvis[0] <<")?";
 
-bool equal(int *p, int *q)
-{
-    if (*p == *q)
-        return true;
+    getline(cin, singer);
+    if (singer == elvis)
+        cout << "맞았습니다.";
     else
-        return false;
+        cout << "틀렸습니다. " + elvis + "입니다." << endl;
+        
+    return 0;
 }
