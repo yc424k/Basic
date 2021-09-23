@@ -33,7 +33,7 @@
 * wakatime.vscode-wakatime-17.0.0
 * wholroyd.jinja-0.0.8
 
-# VSCODE shortt
+# VSCODE short
 * ctrl+b -> explorer 창 가리기
 * ctrl+j -> terminal 창 가리기
 * ^ + ` -> terminal 열기
