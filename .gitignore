@@ -36,8 +36,9 @@
 #setting
 launch.json
 settings.json
-tasks.json
+#tasks.json
 
 #cpp
 *.plist
 study
+main

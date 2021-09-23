@@ -37,3 +37,6 @@
 * ctrl+b -> explorer 창 가리기
 * ctrl+j -> terminal 창 가리기
 * ^ + ` -> terminal 열기
+
+# 참고 사이트
+*https://sean-ma.tistory.com/10 - Mac vscode cpp setting
