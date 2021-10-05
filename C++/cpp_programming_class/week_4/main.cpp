@@ -1,22 +1,26 @@
 #include <iostream>
 using namespace std;
 
-int main(){
-    cout << "Input count number ?";
-    int n;
-    int result = 0;
-    cin >> n;
-    int *p = new int [n];
-    for(int i;i<n;i++){
-        int num;
-        cin >> p[i];
-    }
+class Circle
+{
+    int radius;
 
-    for(int i; i<n ; i++){
-        result += p[i];
-    }
+public:
+    Circle() { radius = 1; }
+    Circle(int r) { radius = r; }
+    void setRadius(int r) { radius = r; }
+    double getArea();
+};
 
-    cout << result/n <<endl;
+double Circle::getArea()
+{
+    return 3.14 * radius * radius;
+}
 
-    return 0;
+int main()
+{
+    Circle circleArray[3] = {Circle(10), Circle(20), Circle()};
+
+    for (int i = 0; i < 3; i++)
+        cout << "Circle " << i << "의 면적은 " << circleArray[i].getArea() << endl;
 }
