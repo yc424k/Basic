@@ -42,3 +42,6 @@ tasks.json
 *.plist
 study
 main
+
+*.txt
+tasks.json
