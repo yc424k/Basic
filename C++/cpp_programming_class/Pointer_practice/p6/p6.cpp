@@ -87,12 +87,12 @@ void CircleManager ::searchByArea()
 
 int main()
 {
-    cout << "20181513 김유청" << endl;
+    
     Circle circle;
     int size;
     int radius;
     string name;
-
+    cout << "20181513 김유청" << endl;
     cout << "원의 개수 >> ";
     cin >> size;
     CircleManager cm(size);
