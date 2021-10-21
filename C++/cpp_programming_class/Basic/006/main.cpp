@@ -12,7 +12,7 @@ int main(){
     char address[100];
     cin.getline(address, 100, '\n');
     //공백이 있는 문자열도 입력 받을 수 있다.
-    //cin.getline(char buff[], int size, char delimitChar)
+    //cin`getline(char buff[], int size, char delimitChar)
     //buf에 최대 size-1개의 문자 입력. 끝에 '\0'을 붙임
     //delimitChar를 만나면 입력 중단. 끝에 '\0'을 붙임
     //*delimitChar의 default 값은 '\n'(Enter)
