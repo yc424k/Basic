@@ -45,3 +45,8 @@ main
 
 *.txt
 tasks.json
+
+*
+!*.*
+!*/
+*.txt
