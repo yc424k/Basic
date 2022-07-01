@@ -1,6 +1,6 @@
 #Basic
 *.DS_Store
-
+*.out
 # Prerequisites
 *.d
 # Compiled Object files
@@ -44,7 +44,6 @@ study
 main
 main.dSYM
 Info.plist
-a.out
 
 *.txt
 tasks.json
