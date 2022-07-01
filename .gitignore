@@ -50,4 +50,7 @@ tasks.json
 !*.*
 !*/
 *.txt
-CMakeLists.txt
+
+# CLion
+cmake*
+.idea
