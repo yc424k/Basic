@@ -43,7 +43,6 @@ tasks.json
 study
 main
 main.dSYM
-.DS_Store
 Info.plist
 
 *.txt
