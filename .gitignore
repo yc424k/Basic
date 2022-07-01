@@ -42,6 +42,9 @@ tasks.json
 *.plist
 study
 main
+main.dSYM
+.DS_Store
+Info.plist
 
 *.txt
 tasks.json
