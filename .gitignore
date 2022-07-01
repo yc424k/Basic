@@ -44,6 +44,7 @@ study
 main
 main.dSYM
 Info.plist
+a.out
 
 *.txt
 tasks.json
