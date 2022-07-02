@@ -5,5 +5,8 @@ using namespace std;
 
 int main()
 {
-    cout <,
+    cout << sqrt(4) << endl;
+    cout << sqrt(4.2) << endl;
+
+    return 0;
 }
