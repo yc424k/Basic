@@ -13,5 +13,5 @@ int main(){
     string my_info = my_country + ", " + my_job;
     cout << "My info : " << my_info << endl;
 
-    return 0; 
+    return 0;~ 
 }
