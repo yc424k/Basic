@@ -3,7 +3,7 @@
 
 using namespace std;
 
-namespace fs = experimental::filesystem;
+namespace fs = filesystem;
 
 int main()
 {
