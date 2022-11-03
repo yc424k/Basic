@@ -1,36 +1,30 @@
-# 숫자 야구게임
-import random
+class SoccerPlayer():
+    def __init__(self, name="No name", position="No position", back_number=0):
+        self.name = name
+        self.position = position
+        self.back_number = back_number
+
+    def change_back_number(self, new_number):
+        print(f"선수의 등번호를 변경합니다: From {self.back_number} to {new_number}")
+        self.back_number = new_number
+
+    def print_back_number(self):
+        print(f"선수의 등번호를 출력한다: {self.back_number}")
+
+    def __str__(self):
+        return f"Hello, my name is {self.name}. I am Soccer Player"
 
 
-def make_random_number():
-    x0, x1, x2 = random.sample(range(10), 3)
-    return [x0, x1, x2]
+class BaseballPlayer(SoccerPlayer):
+    def __str__(self):
+        return f"Hello, my name is {self.name}. I am BaseBall Player"
 
 
-def check_strike_ball(secret_number, answer_number):
-    strike = 0
-    ball = 0
-    for i in range(3):
-        if secret_number[i] == answer_number[i]:
-            strike += 1
-        elif answer_number[i] in secret_number:
-            ball += 1
-    return [strike, ball]
+messi = SoccerPlayer("Lionel Messi", "Forward", 10)
+daeho = BaseballPlayer("Park", "Pitcher", 13)
 
+messi.change_back_number(30)
+messi.print_back_number()
 
-answer = make_random_number()
-count = 0
-while True:
-    count += 1
-    guess = input("숫자를 입력하세요: ")
-    # if guess == "q":
-    #     break
-    guess = [int(x) for x in guess]
-    strike, ball = check_strike_ball(answer, guess)
-    print("Your answer is {}".format(guess))
-    print("{} strike and {} ball".format(strike, ball))
-
-    if strike == 3:
-        print("The number of trials is {}".format(count))
-        print("The answer is {}".format(answer))
-        break
+print(messi)
+print(daeho)
