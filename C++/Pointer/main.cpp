@@ -5,7 +5,8 @@
 
 #include <iostream>
 #include <stdlib.h>
-
+#include <array>
+#include <vector>
 using namespace std;
 
 union Union
@@ -207,5 +208,70 @@ int main()
     // void * 사용 예시
     int *P = (int *)malloc(sizeof(int) * 3); // malloc의 경우 어떤 타입이 들어올지 모르기 때문에 void 그리고 int *로 형변환
     free(P);
+#endif
+#if 1
+    // int s;
+    // cin >> s;
+    // arr<int, s> arr1{};
+    // 배열의 크기를 입력받는 방식은 불가능
+    // array<int, 5> arr{1, 2, 3};
+    // for (int i : arr)
+    // {
+    //     cout << i << endl;
+    // }
+
+    vector<int> vec(5, 2); // 초기화를 안해줘도 0으로 초기화 해줌
+    for (int num : vec)
+    {
+        cout << num << endl;
+    }
+
+    vec.resize(3); // 사이즈 변경도 가능함
+    vec.resize(10, 2);
+    for (int num : vec)
+    {
+        cout << num << endl;
+    }
+
+    cout << vec.size() << endl;
+    vec.push_back(10);
+    cout << vec.size() << endl;
+    vec.pop_back();
+    cout << vec.size() << endl;
+
+    // 벡터가 동적할당하는 코드
+    vector<int> vec0;
+    for (int i = 0; i < 100; i++)
+    {
+        vec.push_back(i);
+        cout << vec.size() << endl;
+        cout << vec.data() << endl;
+    }
+
+    vector<int> vec1{1, 2, 3};
+    vector<int> vec2{3, 2, 1};
+    cout << vec1.front() << endl;
+    cout << vec1.back() << endl;
+    vec1.swap(vec2);
+
+    for (int i : vec1)
+    {
+        cout << i;
+    }
+    cout << endl;
+
+    for (int i : vec2)
+    {
+        cout << i;
+    }
+    cout << endl;
+
+    vector<int> vec3;
+    vec3 = vec1;
+    for (int i : vec3)
+    {
+        cout << i;
+    }
+    cout << endl;
 #endif
 }
