@@ -7,6 +7,7 @@
         "version": "cpp",
         "istream": "cpp",
         "array": "cpp",
-        "ctime": "cpp"
+        "ctime": "cpp",
+        "__config": "cpp"
     }
 }
