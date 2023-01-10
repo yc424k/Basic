@@ -14,6 +14,12 @@ union Union
     double d;
 };
 
+struct Person
+{
+    float weight;
+    float height;
+};
+
 int main()
 {
 // 포인터 기초
@@ -122,5 +128,67 @@ int main()
     const char *str2 = "hello";
     cout << str2 << endl;
     cout << typeid("hello").name() << endl;
+#endif
+// 포인터 조심해야 되는 점
+#if 0
+    for (int i = 0; i < 3; i++)
+    {
+        // int num = 0;
+        static int num = 0; // 정적 메모리 할당으로 변함
+        ++num;
+        cout << num << endl;
+    }
+
+    int *pNum0 = new int(123); // heap 메모리에 할당됨, heap 영역에 있는 변수는 이름이 없음
+    int *pNum1 = pNum0;
+    cout << *pNum0 << endl;
+    delete pNum0; // 해제를 해주지 않으면 메모리에 계속 남아 있음
+
+    // cout << *pNum0 << endl; // 에러를 발생 시킬 수 있음
+    // cout << *pNum1 << endl; // 에러를 발생 시킬 수 있음
+    // delete pNum0 // 에러를 발생 시킬 수 있음
+    // {
+    //     int n = 10;
+    //     pNum0 = &n;
+    // }
+    // 위에 같은 경우들을 조심 해야됨
+#endif
+
+// 배열 동적 할당
+#if 0
+    int s;
+    cin >> s;
+    // int arr[s]{1, 2, 3};
+    // 기존에는 위와 같은 방법으로 배열 할당이 불가능함
+    int *arr = new int[s]{};
+    arr[0] = 1;
+    cout << arr[0] << endl;
+    delete[] arr; // 동적 배열을 해제하는 방법
+
+    Person *person0 = new Person{};
+    cout << person0->height << endl;
+    cout << (*person0).weight << endl;
+    delete person0;
+
+    cout << endl;
+    Person *person1[2]{
+        new Person{56.f, 172.3f},
+        new Person{16.f, 111.1f}};
+
+    for (Person *person : person1)
+    {
+        person->weight = 0.0f;
+    }
+    cout << endl;
+    for (Person *person : person1)
+    {
+        cout << person->weight << endl;
+    }
+#endif
+
+// nullptr
+#if 1
+    int *p = nullptr;
+    // int *p = NULL; // c++ 11 이전에 사용하던 방법
 #endif
 }
