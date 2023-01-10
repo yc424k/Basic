@@ -4,6 +4,7 @@
 // - 메모리 주소를 저장하고 있는 변수
 
 #include <iostream>
+#include <stdlib.h>
 
 using namespace std;
 
@@ -187,8 +188,24 @@ int main()
 #endif
 
 // nullptr
-#if 1
+#if 0
     int *p = nullptr;
     // int *p = NULL; // c++ 11 이전에 사용하던 방법
+#endif
+// void *
+#if 0
+    int num = 10;
+    int *p = &num;
+    cout << *p << endl;
+
+    void *vp = p; // 어떤 형태든 void 포인터로 변환이 가능함
+
+    int *p0 = (int *)vp; // void 포인터는 형변환이 가능함
+    // cout << *vp < endl; // void포인터를 해당 데이터를 어떻게 다뤄야 하는지 모르기 때문에 값 출력은 못함
+    cout << *p0 << endl;
+
+    // void * 사용 예시
+    int *P = (int *)malloc(sizeof(int) * 3); // malloc의 경우 어떤 타입이 들어올지 모르기 때문에 void 그리고 int *로 형변환
+    free(P);
 #endif
 }
