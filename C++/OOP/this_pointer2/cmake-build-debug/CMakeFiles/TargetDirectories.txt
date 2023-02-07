@@ -1,0 +1,3 @@
+/Users/youblue/Basic/C++/OOP/this_pointer2/cmake-build-debug/CMakeFiles/this_pointer2.dir
+/Users/youblue/Basic/C++/OOP/this_pointer2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/youblue/Basic/C++/OOP/this_pointer2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

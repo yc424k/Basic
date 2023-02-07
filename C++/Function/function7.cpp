@@ -125,6 +125,7 @@ int main()
     FuncType f2 = gameOver;
     f();
 #endif
+    // using이 사용가능한 환경이면 using을 사용하는게 좋음
     using FuncType = void (*)();
     real32 r32;
     real64 r64;
