@@ -250,3 +250,10 @@ app.*.map.json
 /Flutter
 /icon
 
+*.json
+*.cmake
+*.ninja_*
+*.ninja
+*.txt
+*.check_*
+CMake*

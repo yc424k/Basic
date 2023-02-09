@@ -20,4 +20,5 @@ int main()
     // inline시 컴파일은
     // int x = squre(5);를
     // int x = 5 * 5;로 바꿔줌
+    int x = squre(5);
 }
