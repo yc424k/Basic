@@ -4,15 +4,15 @@ using namespace std;
 
 int main()
 {
-    int arr[10]{};
+    char c = 'a';
+    int i = 1;
+    float f = 1.0;
+    double d = 1.0;
 
-    for (int A : arr)
-    {
-        A = 1;
-    }
+    cout << sizeof(c) << endl;
+    cout << sizeof(i) << endl;
+    cout << sizeof(f) << endl;
+    cout << sizeof(d) << endl;
 
-    for (int A : arr)
-    {
-        cout << A << endl;
-    }
+    char *cptr
 }
