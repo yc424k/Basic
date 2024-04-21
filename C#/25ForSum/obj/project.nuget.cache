@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "HWXZDsDsFpca/p9yWuR6MR8TAfIOjuZEStGZerZcrhrLnXpz+bW/FXFVf7WLXHt5QvagBRP/TF5Lo/lpC83R4A==",
+  "dgSpecHash": "3qJAhb8R2RHUZKnvvLdt6dovFZ0ZAogSZERLd1s1Ri5djdCERrt9hN24fJ/rIQzBJVMxklEDPmgfUsPLBT9U9Q==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/25ForSum/25ForSum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\25ForSum\\25ForSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

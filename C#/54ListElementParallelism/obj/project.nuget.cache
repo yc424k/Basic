@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Dyze24ZWAVDjy0vODtjUos+b/Kc24W2gNDuUrxJ/sh7keCt/0WaR3v3wlqo+BIUz8LPo897rG+GuRJPm8bOz+w==",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#\\54ListElementParallelism\\54ListElementParallelism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -16,7 +16,7 @@ for (i = 0; i < Array.Length; i++)
     for (j = 0; j < Array[i].Length; j++)
     {
         Array[i][j] = i * Array[i].Length + j;
-    }x
+    }
 }
 
 for (i = 0; i < Array.Length; i++)

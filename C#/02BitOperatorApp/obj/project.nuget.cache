@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Mw0fZFqBcD+ksWFJnvKwIEcmvs33fHDDZOancwpzM1b/fbtR65IaeE1XNEPB0I0CI896ar2kMb8ar/krRQjRww==",
+  "dgSpecHash": "rCPs/HXSl15xSQbDrOJFFTQb6eeXTZtOwe9c5lYJ19LXI2mBK9yAv3ia9sjz7H/KsurZVNkqR5XrKr3hKxpN9Q==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/BitOperatorApp/BitOperatorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\02BitOperatorApp\\BitOperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

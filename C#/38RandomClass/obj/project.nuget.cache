@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w2qmRdaP0tVh6rQE2atzHeuIKGtRq7bq7WsoDHBsWKCzC/b6tKeP4MMsoGqd0AC0bgcLqJc1WGe4M+g0hxvDpA==",
+  "dgSpecHash": "42bIlmp3yxlrvhr98VBrr3rX1TrcnpTcKeM0tpRqIzvwNmfE/9mCP80/asZuS19poN+QtNikT5nJTrEbjW3J1g==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/38RandomClass/38RandomClass.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\38RandomClass\\38RandomClass.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

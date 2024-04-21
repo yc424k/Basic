@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6VTTRcrili6W+4HuVZVexeNJ9J41K/ZflirUXClA4Ej68rOwCo35gujoC67aKWncXXRVjgJuhx94rMmylCCoPw==",
+  "dgSpecHash": "mg8dtSICPBi9shKq2idUaOb4llTgPYQjuEMW1txNwehi8zTBEfBL2QgUlpocmDjS028ra3nGcc+ykAHm8Yr2ww==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/27ForGugudan/27ForGugudan.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\27ForGugudan\\27ForGugudan.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

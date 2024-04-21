@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "3PiPR88azXAoAGFh2tcvETxvTViSMvWm4180O6biVmq4CmAn0OEeqecKt6uxUJVr5XOv2V4JsUJLEa28Ef+FJw==",
+  "dgSpecHash": "2wDvrMqsw6V3SfQTUoldtxZXJte6wy9DnIfU1Y8/Z6cETZMlZYlPTiM0q5QXygEakAlQc3QLWr3VKz3qm3Keug==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/LosePrecisionApp/LosePrecisionApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\08LosePrecisionApp\\LosePrecisionApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

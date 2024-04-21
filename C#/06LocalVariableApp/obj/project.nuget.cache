@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "de6cZz+gq+XrOQxJISLygWLfIlet9qTmvaZYwiVGRx8FkyLb3degBVM4X2WENFRk2fraqTcG2A69NsEZoLsl9w==",
+  "dgSpecHash": "N+kWyQeS/Nf3RDwDFbZBcbnxb0LwyMHcNuKdkBXYw4Qn09DyvZ4lDQXYUBD/pOXWkoOph8tNN20Ewp0udxSGsA==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/LocalVariableApp/LocalVariableApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\06LocalVariableApp\\LocalVariableApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

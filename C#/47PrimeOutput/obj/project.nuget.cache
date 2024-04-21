@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "LMfK2NLE4xO6XethU2ZBg/UDz7Y7AZFYyJKfiAgI8H3sN9sfBIoQ5S1lIhc/KxZ4j+sSYfmm1wb7Q8qI5qS0WA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#\\47PrimeOutput\\47PrimeOutput.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

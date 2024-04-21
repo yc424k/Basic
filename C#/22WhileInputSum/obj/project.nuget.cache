@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "0srdrclirVZab+A7ED8sUUyKsQIK6IjVyelH/xqWWVXFXjQ20hFCyYHv3jSGKRrC0bg5YlDcT+mULB2v7I3sJg==",
+  "dgSpecHash": "FtyGMqhYMVgEpjLToDRf0X/Oeu1nqNrvis3QgOhugjREe5EKSTZ6gnMPfwL4vqTFhOC1MdJnsl8FiiWpp8F7ag==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/22WhileInputSum/22WhileInputSum.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\22WhileInputSum\\22WhileInputSum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

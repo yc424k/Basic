@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "yyUO9LrQ7L6HI9LPZrjLU+jjXwvDCoYgCvtYL38N2Yt3F7coH+0Ak6NVmhslMG4d+cow5WNaiv4lgdllf3XC9A==",
+  "dgSpecHash": "sTbwJQ1ayu9nj4WOvKjfyXxx7terhn8NlLYulGc1RlSVseagLS3VZzM4tZ3SSmGACtpGIq49u03LFhtyK7mVcA==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/BoxingUnboxingApp/BoxingUnboxingApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\03BoxingUnboxingApp\\BoxingUnboxingApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

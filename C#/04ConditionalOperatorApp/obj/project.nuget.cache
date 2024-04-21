@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "m1QqTtOw7E5bTSA5TVpzES8L8F2PJZDPTdDA+bd/mOPaNKg4ZTPzYhWOWaY0dcZBEDedOqNzPanktZF9Ft2xVw==",
+  "dgSpecHash": "SRfw2JhGbfzhWaaQcWJwNjJKP3Q1vb9w0OfiTOE4yeQlYntjbEubB+3hHRrmnoWs618Bx/T8HNKml/ETUSPBXg==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/ConditionalOperatorApp/ConditionalOperatorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\04ConditionalOperatorApp\\ConditionalOperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

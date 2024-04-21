@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "YDVJyiIOzG30lCT6cZQuvYv4Pj07LTTEq5b5ZBx8m/OGh+pSwARMWUhjFhmhZgq1S5B2Xns7Ic00rl/KGURLCA==",
+  "success": true,
+  "projectFilePath": "D:\\study\\C#\\51MethodOverloading\\51MethodOverloading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
+  "logs": []
+}

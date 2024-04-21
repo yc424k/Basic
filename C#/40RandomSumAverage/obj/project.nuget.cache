@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2QtmNA12N2mgtsuHABkcjqwOnmnTOYR+9oUiBNNPk30PcuJnOdUv6CrcaHf3IRehGhsCFJ1HruSLUjeESGp9rA==",
+  "dgSpecHash": "Em9hGqhcOiVB+sIf0qyO1N+7z9tZ/N/otWVnUgV+oaDBluJDozFAPXFskXbhpWqOv2P8nyQRxSBhgt4VeoSngg==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/40RandomSumAverage/40RandomSumAverage.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\40RandomSumAverage\\40RandomSumAverage.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "A+yBh2xwJuFmSCyp6GmxNpAcRfEI9C8S8noLi7MxWsr21l7f6+1PJywED1yFxThVERLSvYunXM5KVtyRoJrFuA==",
+  "dgSpecHash": "XLTpwgfW+pAsYkSr9JyMnT5e/GkWXmP0VE73kMey3l0YwO8DGXJAGtRl/9nai53Ynk4vn/QWGxCpezieZBnzyQ==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/IsAsOperatorApp/IsAsOperatorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\05IsAsOperatorApp\\IsAsOperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

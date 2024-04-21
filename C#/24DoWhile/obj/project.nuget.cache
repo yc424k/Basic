@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "mHjd+2N0RQ90Aulfbpdou68WhbAzH/k2pvE45R1oIV1cZbDBtbiErGkolS8+G4Yn2+jByIpF4aTONOtrs7EK+A==",
+  "dgSpecHash": "skhWIJTT9SyioYfVYuk0gGG0XQCm4fkHH25pq3rGS3s/7/R6sDlMzibPsWs9cCWSfYHKWHo65+C5Qv23KihLfQ==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/24DoWhile/24DoWhile.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\24DoWhile\\24DoWhile.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

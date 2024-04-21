@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "Ust3JkckLoiAORTMLTaeuuFik5X9qjN4FcakZsXOL2DyyMLqqI97kY2Ly0G/qDWFXbpKdQ0KLLWtxgRuvp+q6A==",
+  "dgSpecHash": "YAe/hbw16UPCuzQuNYSnLh3ox2HNbJ1YyeHP0q8aFDx5fZHensIEXt8BUYpw5NDsPYAbxY0dAXxaXdTVOxcKmA==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/09ContinueStApp/09ContinueStApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\09ContinueStApp\\09ContinueStApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

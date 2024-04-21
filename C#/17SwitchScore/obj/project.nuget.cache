@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "w2z9wlbVbKQEfxo8pH2jY1svooaZpO1laLFGC04LZ870br/48nSovHyPxSNLi3QNT5Y4J/BSKkKo8KpmpDdVTA==",
+  "dgSpecHash": "RTgS9CyTHmEvF1mTWE4rGL3r6eyKOp52PXtUCg6bOaxJR5C2tJ9RL/egG1TfYwIiL2OkKAZ2x41c9MW6cq2/jg==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/17SwitchScore/17SwitchScore.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\17SwitchScore\\17SwitchScore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

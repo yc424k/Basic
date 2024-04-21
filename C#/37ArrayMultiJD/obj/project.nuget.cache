@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l0TXDMyujnvIB0W9RuBUOHzt6XBNhtjJ0ukPwhByayWSKg02wKUqZ1fmz7NT4yy/sJh9NOtnAt79LmeVhfcXMg==",
+  "dgSpecHash": "3mE4JgUdG45e/aNVlZ6mWfTZnRdt045HxiGRGJfLVdFTpZ8wwOXMYGbgn+ixJGvnHHeghqdAmZxxwCIA7DzYhw==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/37ArrayMultiJD/37ArrayMultiJD.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\37ArrayMultiJD\\37ArrayMultiJD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

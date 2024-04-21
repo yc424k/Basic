@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "uLOsvDwzjcPYVcQ1mY8ObNS/G92djKDBeyFtkb8fVTRW/hizig9hGuE4k7Zu36Qm99BNIFeTv+N9kWrVKbkNDg==",
+  "dgSpecHash": "gkPfzSjzQIRcwBIwtvX/MkjIJMyKhw/BrNitiul2qztQ9o4xbmvUD8OCceVDm+DAuC8Hty/YqvEO0SGQSKN7IA==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/LogicalOperatorApp/LogicalOperatorApp.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\07LogicalOperatorApp\\LogicalOperatorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

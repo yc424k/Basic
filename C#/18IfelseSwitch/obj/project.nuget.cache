@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "NdYuhEeoPksBumRRKlK43x+bwAerls33QpCCT/aL7dHCs6+fIhY1Rm5wZjeP70HNGWfTuaQmgb2XzdFU+mJizg==",
+  "dgSpecHash": "p4PyOne7yQfMnsYNwgwE+DWPRHu0XU0gpPUVwGQVbDNL79tGTZ15wu2muY9samOBQdhA3YG+bjZx/M/9ZI6XFw==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/18IfelseSwitch/18IfelseSwitch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\18IfelseSwitch\\18IfelseSwitch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

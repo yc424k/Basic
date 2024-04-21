@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "l8aFZOUZRfzclmYqlewy0KSSmcpo+kunu5t8iDTxg3kKt6num5sbM5zTYMqIUzpkGJiCfsJcKwZxg4IE5oz75w==",
+  "dgSpecHash": "0XGOhrpbiVo37WDHXb6ORNpFdbcsTOEuZKys0Ts02A98C9fKiA5sfmMxQ8fggRsROnYBgYmffYIiMn63/7TiAw==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/15IfElseifElse/15IfElseifElse.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\15IfElseifElse\\15IfElseifElse.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "VJV2th4TEG9t2NKUTnQd5DEp3QGbKIhIPi8/H9RHyrfK9A1JBUd/d6ExEkD12x42Dv/wqtZSxN9iXW/siBpqEA==",
+  "dgSpecHash": "4oNWvkqNnWmkBP75ghlF+8uN0tH1nzpggY2C8jqUyVzwnOBaVJjAwOFAuyHQKZyKLhWrMlcPPxwhxOUhd1SXTQ==",
   "success": true,
-  "projectFilePath": "/Users/youblue/Documents/Basic/C#/43RandomBinarySearch/43RandomBinarySearch.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\study\\C#\\43RandomBinarySearch\\43RandomBinarySearch.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.25\\microsoft.netcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.25\\microsoft.windowsdesktop.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.25\\microsoft.aspnetcore.app.ref.6.0.25.nupkg.sha512",
+    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.25\\microsoft.netcore.app.host.win-x64.6.0.25.nupkg.sha512"
+  ],
   "logs": []
 }
