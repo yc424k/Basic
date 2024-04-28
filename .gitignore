@@ -257,3 +257,5 @@ app.*.map.json
 *.txt
 *.check_*
 CMake*
+dataset/
+splitted/
