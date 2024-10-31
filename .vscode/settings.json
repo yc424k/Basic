@@ -70,5 +70,6 @@
         "vector": "cpp",
         "algorithm": "cpp"
     },
-    "cmake.sourceDirectory": "D:/study/C++/OOP/this_pointer"
+    "cmake.sourceDirectory": "D:/study/C++/OOP/this_pointer",
+    "cmake.ignoreCMakeListsMissing": true
 }
